@@ -55,3 +55,10 @@ DATABASE_URL="tu_url_de_pooler_supabase"
 DIRECT_URL="tu_url_directa_supabase"
 JWT_SECRET="tu_secreto_super_seguro"
 ```
+# JWT Secrets
+JWT_ACCESS_SECRET="clave_secreta_para_el_access_token_super_segura_123"
+JWT_REFRESH_SECRET="clave_secreta_para_el_refresh_token_super_segura_456"
+
+DATABASE_URL="postgresql://postgres.dnkjmsaemgkgxlnaszyt:rxjZVCFDGTMN5RyN@aws-1-us-east-1.pooler.supabase.com:6543/postgres"
+
+DIRECT_URL="postgresql://postgres.dnkjmsaemgkgxlnaszyt:rxjZVCFDGTMN5RyN@aws-1-us-east-1.pooler.supabase.com:5432/postgres"
